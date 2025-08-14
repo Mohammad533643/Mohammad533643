@@ -1,6 +1,8 @@
 # 💫 About Me:
 💻I'm currently a computer engineering student (software engineering).<br>
+
 🧑‍💻I'm learning and working on site's  back-end development using Django and building simple applications with Python.<br>It is worth mentioning that I am proficient in Python, Go, and SQL, as well as frameworks and tools like Django, HTML, CSS, MySQL, and SQLite3.<br>
+
 🤖I'm also learning artificial intelligence (machine learning).
 
 
